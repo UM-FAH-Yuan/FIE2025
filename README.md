@@ -214,8 +214,8 @@
 
 请仔细阅读《第一届中文叙实性推理评测FIE2025参赛协议》和《第一届中文叙实性推理评测FIE2025数据集使用许可》，然后点击报名链接进行报名。 
 
-报名链接：https://forms.gle/XeknqUUtACdV4fxc8
+报名链接：https://wj.qq.com/s2/17647837/68cf/
 
 # 9 任务网址 
 
-https://github.com/UM-FAH-Yuan/Chinese-FIAC
+https://github.com/UM-FAH-Yuan/FIE2025
