@@ -221,9 +221,12 @@
 
 ## 2.11 微调方式参考
 
-基线测试中使用的微调方式已公开，请参考：https://github.com/UM-FAH-Yuan/Factivity-LLM
+基线测试中使用的微调方式已公开，请参考：https://github.com/UM-FAH-Yuan/Factivity-LLM 。
 
-备注：由于样例集数据量限制，模型在训练时可能无法复现基线结果。
+此外，为了方便有需求的队伍进行微调，我们录制了一个访谈式的视频，以简要介绍一种利用Llama Factory来进行lora微调的方法。如需参考，请见https://meeting.tencent.com/crm/KPGoe6dYa8 （密码：0328）。
+
+
+备注：由于样例集数据量限制，在训练模型时需要自行从样例集中拆分出一部分数据用作验证，因而可能无法完全复现基线结果。
 
 
 # 3 评价标准 
