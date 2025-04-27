@@ -9,7 +9,7 @@
 
 请仔细阅读[《第一届中文叙实性推理评测FIE2025参赛协议》](https://github.com/UM-FAH-Yuan/FIE2025/blob/main/Agreement%20%26%20License/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%B8%AD%E6%96%87%E5%8F%99%E5%AE%9E%E6%80%A7%E6%8E%A8%E7%90%86%E8%AF%84%E6%B5%8B%EF%BC%88FIE2025%EF%BC%89%E5%8F%82%E8%B5%9B%E5%8D%8F%E8%AE%AEv3-20250123.pdf)和[《第一届中文叙实性推理评测FIE2025数据集使用许可》](https://github.com/UM-FAH-Yuan/FIE2025/blob/main/Agreement%20%26%20License/%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%B8%AD%E6%96%87%E5%8F%99%E5%AE%9E%E6%80%A7%E6%8E%A8%E7%90%86%E8%AF%84%E6%B5%8BFIE2025%E6%95%B0%E6%8D%AE%E9%9B%86%E4%BD%BF%E7%94%A8%E8%AE%B8%E5%8F%AFv3-20250123.pdf)，然后点击报名链接进行报名。 （如出现PDF无法显示的情况，请更换浏览器，建议使用Chrome浏览器）
 
-报名链接：https://wj.qq.com/s2/17647837/68cf/
+报名链接：https://tianchi.aliyun.com/competition/entrance/532342/introduction
 
 报名注意事项：
 
