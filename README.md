@@ -80,7 +80,7 @@ https://aclanthology.org/2023.ccl-3.9.pdf
 
 日期：2025-04-27 20:05:07
 
-录制文件：https://meeting.tencent.com/crm/2BLk3pQk47
+录制文件：https://meeting.tencent.com/crm/2BLk3pQk47（无需密码）
 
 ![Static Badge](https://img.shields.io/badge/20250426-Q%20%26%20A-blue?style=plastic)
 
