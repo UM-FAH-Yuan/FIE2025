@@ -2,6 +2,8 @@
 <!-- <img src = "https://github.com/GoThereGit/Chinese-AMR/blob/main/img/camrp2024.png" width=200> -->
 </div>
 
+<p align="right"><font size=50><strong>[English Version[(https://github.com/UM-FAH-Yuan/FIE2025/blob/main/README_EN.md)</strong></font></p> 
+
 # <p align="center"><font size=50><strong>第一届中文叙实性推理评测任务</strong></font></p> 
 <p align="center"><font size=50><strong>Factivity Inference Evaluation 2025</strong></font></p> 
 
