@@ -13,12 +13,11 @@ Task 4, CCL25-Eval<p align="right"><font size=50>[中文版本](https://github.c
 
 - **Q1:** I just tested the submission method on the Tianchi platform, but it keeps failing, possibly due to incorrect formatting. I suggest the organizers consider providing an answer template corresponding exactly to your evaluation set. I tried again and still couldn’t submit—maybe the order is wrong or another issue.
 
-```json
 {
   "d_id": "nat_acc_001",
+
   "answer": "U"
 }
-```
 
 May we have a submission template? This would avoid such issues; the template’s order should match the evaluation set, at minimum specifying whether to list artificial items before natural ones.
 
