@@ -82,7 +82,7 @@ https://aclanthology.org/2023.ccl-3.9.pdf
 
 录制文件：[https://meeting.tencent.com/crm/2BLk3pQk47](https://meeting.tencent.com/crm/2BLk3pQk47)（无需密码）
 
-[点此查看组织方PPT](https://github.com/UM-FAH-Yuan/FIE2025/blob/main/meeting_record_20250427.pdf)
+[点此查看幻灯片](https://github.com/UM-FAH-Yuan/FIE2025/blob/main/meeting_record_20250427.pdf)
 
 ![Static Badge](https://img.shields.io/badge/20250426-Q%20%26%20A-blue?style=plastic)
 
