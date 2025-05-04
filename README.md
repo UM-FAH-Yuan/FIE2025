@@ -364,7 +364,7 @@ https://aclanthology.org/2023.ccl-3.9.pdf
 {
         "d_id": "Nat_0001_prompt",
         "answer": "T"
-    }
+    },
 {
         "d_id": "Art_0001_prompt",
         "answer": "F"
@@ -377,7 +377,7 @@ https://aclanthology.org/2023.ccl-3.9.pdf
 {
         "d_id": "Nat_0001_FT",
         "answer": "T"
-    }
+    },
 {
         "d_id": "Art_0001_FT",
         "answer": "F"
