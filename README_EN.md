@@ -4,8 +4,8 @@
 
 Task 4, CCL25-Eval<p align="right"><font size=50>[中文版本](https://github.com/UM-FAH-Yuan/FIE2025/blob/main/README.md)</font></p>
 
-# <p align="center"><font size=50><strong>第一届中文叙实性推理评测任务</strong></font></p> 
-<p align="center"><font size=50><strong>Factivity Inference Evaluation 2025</strong></font></p> 
+# <p align="center"><font size=50><strong>Factivity Inference Evaluation 2025</strong></font></p> 
+<p align="center"><font size=50><strong>第一届中文叙实性推理评测任务</strong></font></p> 
 
 # Recent Updates
 
