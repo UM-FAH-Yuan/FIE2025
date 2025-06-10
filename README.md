@@ -483,6 +483,14 @@ https://aclanthology.org/2023.ccl-3.9.pdf
 
 <div id="weitiao"></div>
 
+| Model：Qwen2-7B-Instruct | Pre-FT | Post-FT |
+| ----------------- | ------- | ------- |
+| art_acc | 53.74% | 94.66% |
+| nat_acc | 69.86% | 88.93% |
+| weighted mean | 65.02% | 90.65% |
+
+<div id="weitiao"></div>
+
 ## 2.11 微调方式参考
 
 基线测试中使用的微调方式已公开，请参考：https://github.com/UM-FAH-Yuan/Factivity-LLM 。
