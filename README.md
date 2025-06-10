@@ -483,7 +483,7 @@ https://aclanthology.org/2023.ccl-3.9.pdf
 
 <div id="weitiao"></div>
 
-| Model：Qwen2-7B-Instruct | Pre-FT | Post-FT |
+| Model：Qwen2-7B-Instruct | Non-FT | LoRa-FT |
 | ----------------- | ------- | ------- |
 | art_acc | 53.74% | 94.66% |
 | nat_acc | 69.86% | 88.93% |
