@@ -9,9 +9,6 @@
 
 # 近期更新 
 
-![Static Badge](https://img.shields.io/badge/20260306-UPUPUP-brightgreen?style=plastic)
-
-
 ![Static Badge](https://img.shields.io/badge/20250515-UPDATE-brightgreen?style=plastic)
 
 各位队伍负责人：
